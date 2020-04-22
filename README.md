@@ -1,6 +1,19 @@
-# demoappkanji
+# Appkanji
 
 A new Flutter application.
+## Tra cứu từ vựng tiếng Nhật.
+### Tìm kiếm từ:
+  - Hán tự
+  - Âm kunyomi
+  - Âm onyomi
+  - Cách đọc
+  - Cách viết
+  - Dịch nghĩa
+### Tiện ích người dùng.
+  - Kho dữ liệu phong phú, cập nhật thường xuyên
+  - Đánh dấu từ vựng yêu thích
+  - Đánh giá của người dùng
+
 
 ## Getting Started
 
